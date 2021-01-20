@@ -7,7 +7,7 @@
 using namespace std;
 int main() {
 
-	vector <string> rockPaperScissor;
+	vector <string> rockPaperScissor = {"rock", "paper", "scissor"};
 
 
 	string input;
